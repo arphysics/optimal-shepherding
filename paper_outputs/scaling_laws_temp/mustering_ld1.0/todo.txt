@@ -1,0 +1,14 @@
+Trajectory plot
+
+
+GOAL: Clone view video WITH box plots:
+
+	SUBGOALS:
+
+	1) Figure out how to plot two things side by side in ax.subplots 
+
+	2) Make movie with ax.subplots
+
+	3) Integrate functions better into auxiliary_functions.py
+
+
